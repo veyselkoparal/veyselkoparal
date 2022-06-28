@@ -9,7 +9,7 @@ Blockchain - FullStack Developer - Solidity Developer - Web3
 * ✉️  You can contact me at [veyselkoparal@gmail.com](mailto:veyselkoparal@gmail.com)
 * 🧠  I'm learning Solidity - dAPPs
 
-<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" style="max-width: 100%;height: 215px;float: right;position: absolute;top: 160px;right: 80px;" />
+<img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" style="max-width: 100%;height: 250px;float: right;position: absolute;top: 160px;right: 80px;" />
 
 ### Skills
 
